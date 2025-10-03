@@ -1,1 +1,0 @@
-ALTER USER sa SET PASSWORD '';

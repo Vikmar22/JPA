@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/JPAAssig_/JPAAssig..iml" filepath="$PROJECT_DIR$/JPAAssig_/JPAAssig..iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JPAAssig_.iml" filepath="$PROJECT_DIR$/.idea/JPAAssig_.iml" />
     </modules>
   </component>
